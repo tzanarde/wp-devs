@@ -35,8 +35,8 @@ function wpdevs_config(){
     load_theme_textdomain($textdomain, get_template_directory() . "/languages/");
 
     // Register the menus
-    register_nav_menus(array('wp_devs_main_menu' => esc_htmlesc_html__('Main Menu', 'wp-devs'),
-                            'wp_devs_footer_menu' => esc_htmlesc_html__('Footen Menu', 'wp-devs')));
+    register_nav_menus(array('wp_devs_main_menu' => esc_html__('Main Menu', 'wp-devs'),
+                            'wp_devs_footer_menu' => esc_html__('Footen Menu', 'wp-devs')));
 
     // Adding theme support for custom-header
     add_theme_support('custom-header',

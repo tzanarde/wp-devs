@@ -314,3 +314,88 @@ Stack trace:
 [21-Nov-2023 00:33:59 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
 [21-Nov-2023 01:03:51 UTC] PHP Parse error:  syntax error, unexpected identifier "Please", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-home-hero.php on line 3
 [21-Nov-2023 01:04:18 UTC] PHP Parse error:  syntax error, unexpected token ":" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/search.php on line 7
+[25-Nov-2023 20:00:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-cron.php(46): require_once('/Users/tzanarde...')
+#7 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
+[25-Nov-2023 20:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin.php(34): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/index.php(10): require_once('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
+[25-Nov-2023 20:00:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[25-Nov-2023 20:00:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[25-Nov-2023 20:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(13): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
+[25-Nov-2023 20:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin.php(34): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/options-general.php(10): require_once('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
+[25-Nov-2023 20:01:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(13): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
+[25-Nov-2023 20:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin.php(34): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/index.php(10): require_once('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
+[25-Nov-2023 20:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_htmlesc_html__() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:38
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_config('')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(621): do_action('after_setup_the...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(13): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 38
