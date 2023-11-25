@@ -1,0 +1,20 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 14 13:17:20.095087 2023] [mpm_event:notice] [pid 1900:tid 8600646208] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Nov 14 13:17:20.095489 2023] [core:notice] [pid 1900:tid 8600646208] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/KRYFlqJFn/conf/apache/apache2.conf'
+[Tue Nov 14 15:24:52.399921 2023] [mpm_event:notice] [pid 1900:tid 8600646208] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 14 15:24:55.118898 2023] [mpm_event:notice] [pid 7213:tid 8664740416] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Nov 14 15:24:55.119464 2023] [core:notice] [pid 7213:tid 8664740416] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/KRYFlqJFn/conf/apache/apache2.conf'
+[Tue Nov 14 21:17:55.113883 2023] [mpm_event:notice] [pid 7213:tid 8664740416] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Thu Nov 16 13:08:45.446660 2023] [mpm_event:notice] [pid 2508:tid 8636478016] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu Nov 16 13:08:45.447827 2023] [core:notice] [pid 2508:tid 8636478016] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/KRYFlqJFn/conf/apache/apache2.conf'
+[Thu Nov 16 22:31:56.688869 2023] [mpm_event:notice] [pid 2508:tid 8636478016] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Nov 17 16:51:52.144571 2023] [mpm_event:notice] [pid 4221:tid 8629920320] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Nov 17 16:51:52.145113 2023] [core:notice] [pid 4221:tid 8629920320] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/KRYFlqJFn/conf/apache/apache2.conf'
+[Fri Nov 17 22:09:02.333046 2023] [mpm_event:notice] [pid 4221:tid 8629920320] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using tzanardemac.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Nov 20 15:33:45.922526 2023] [mpm_event:notice] [pid 1654:tid 8665576000] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Nov 20 15:33:45.922889 2023] [core:notice] [pid 1654:tid 8665576000] AH00094: Command line: '/Users/tzanarde/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/tzanarde/Library/Application Support/Local/run/KRYFlqJFn/conf/apache/apache2.conf'
+[Mon Nov 20 23:42:54.143653 2023] [mpm_event:notice] [pid 1654:tid 8665576000] AH00491: caught SIGTERM, shutting down

@@ -1,0 +1,316 @@
+[14-Nov-2023 18:44:31 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 6
+[14-Nov-2023 18:44:31 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 6
+[14-Nov-2023 18:44:56 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 6
+[14-Nov-2023 18:44:56 UTC] PHP Parse error:  syntax error, unexpected token "}" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 6
+[14-Nov-2023 20:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nac_menus() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:11
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 11
+[14-Nov-2023 20:28:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[14-Nov-2023 20:28:49 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[14-Nov-2023 20:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nac_menus() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:11
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 11
+[14-Nov-2023 20:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function register_nac_menus() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:11
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin.php(34): require_once('/Users/tzanarde...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/edit.php(10): require_once('/Users/tzanarde...')
+#5 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 11
+[16-Nov-2023 17:41:20 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/page.php on line 19
+[16-Nov-2023 21:55:57 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 22:06:34 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 22:08:24 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 23:42:48 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "flex-height", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 45
+[16-Nov-2023 23:42:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[16-Nov-2023 23:42:48 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[16-Nov-2023 23:44:05 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "flex-height", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 45
+[16-Nov-2023 23:44:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "flex-height", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 45
+[16-Nov-2023 23:44:21 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "flex-height", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 45
+[16-Nov-2023 23:44:21 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "flex-height", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 45
+[16-Nov-2023 23:44:31 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 23:48:20 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 23:50:11 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 23:50:23 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 23:51:11 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 23:51:34 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[17-Nov-2023 00:47:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/page-home.php on line 49
+[17-Nov-2023 20:02:54 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/single.php on line 1
+[17-Nov-2023 20:03:01 UTC] PHP Parse error:  syntax error, unexpected token "/", expecting end of file in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/single.php on line 1
+[17-Nov-2023 21:19:32 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/single.php on line 30
+[17-Nov-2023 22:37:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_curl() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/searchform.php:1
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/general-template.php(310): require()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/header.php(27): get_search_form()
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(790): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(725): load_template('/Users/tzanarde...', true, Array)
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/index.php(1): get_header()
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template-loader.php(106): include('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(19): require_once('/Users/tzanarde...')
+#8 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#9 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/searchform.php on line 1
+[17-Nov-2023 22:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_curl() in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/searchform.php:1
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/general-template.php(310): require()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/header.php(27): get_search_form()
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(790): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(725): load_template('/Users/tzanarde...', true, Array)
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/index.php(1): get_header()
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template-loader.php(106): include('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(19): require_once('/Users/tzanarde...')
+#8 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#9 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/searchform.php on line 1
+[20-Nov-2023 19:54:43 UTC] PHP Parse error:  syntax error, unexpected token ":" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content.php on line 3
+[20-Nov-2023 19:55:37 UTC] PHP Parse error:  syntax error, unexpected token ":" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content.php on line 3
+[20-Nov-2023 19:56:06 UTC] PHP Parse error:  Unmatched ')' in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content.php on line 8
+[20-Nov-2023 20:15:59 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "wp_body_open" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 100
+[20-Nov-2023 20:15:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[20-Nov-2023 20:15:59 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[20-Nov-2023 20:18:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "wp_body_open" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 100
+[20-Nov-2023 20:18:59 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "wp_body_open" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 104
+[20-Nov-2023 20:19:00 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "wp_body_open" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 104
+[20-Nov-2023 21:14:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:14:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:14:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:16:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:16:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:16:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:17:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:17:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:17:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:19:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:19:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:19:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:21:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:21:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:21:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:23:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:23:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:23:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:25:53 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:25:53 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:32:02 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:32:02 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:32:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:33:02 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:33:02 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:33:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:35:02 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:35:02 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:35:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:37:02 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:37:02 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:37:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:39:02 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:39:02 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:39:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:41:02 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:41:02 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:41:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:42:15 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:42:15 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:42:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:15 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:15 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/tzanarde...')
+#4 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:28 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:28 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin.php(34): require_once('/Users/tzanarde...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/customize.php(13): require_once('/Users/tzanarde...')
+#5 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:28 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:28 UTC] PHP Warning:  require(http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php): Failed to open stream: no suitable wrapper could be found in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'http://wp-devs.local/wp-content/themes/wp-devs/inc/customizer.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php:3
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(611): include()
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(13): require_once('/Users/tzanarde...')
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#5 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/functions.php on line 3
+[20-Nov-2023 21:43:54 UTC] PHP Parse error:  syntax error, unexpected token "array", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 9
+[20-Nov-2023 21:43:54 UTC] PHP Parse error:  syntax error, unexpected token "array", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 9
+[20-Nov-2023 21:44:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 22
+[20-Nov-2023 21:44:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 22
+[20-Nov-2023 22:29:06 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "mime_type", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 77
+[20-Nov-2023 22:29:07 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "mime_type", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 77
+[20-Nov-2023 22:29:08 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "mime_type", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 77
+[20-Nov-2023 22:29:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "image" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php:77
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): wpdevs_customizer(Object(WP_Customize_Manager))
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-customize-manager.php(942): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(324): WP_Customize_Manager->wp_loaded('')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-settings.php(665): do_action('wp_loaded')
+#8 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-config.php(103): require_once('/Users/tzanarde...')
+#9 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-load.php(50): require_once('/Users/tzanarde...')
+#10 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/admin.php(34): require_once('/Users/tzanarde...')
+#11 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-admin/customize.php(13): require_once('/Users/tzanarde...')
+#12 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 77
+[20-Nov-2023 23:10:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: explode() expects at most 3 arguments, 4 given in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-lastest-news.php:13
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-lastest-news.php(13): explode('', ', ),\n          ...', '', '')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(792): require('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(725): load_template('/Users/tzanarde...', false, Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/page-home.php(8): get_template_part('parts/content', 'lastest-news')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template-loader.php(106): include('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(19): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-lastest-news.php on line 13
+[20-Nov-2023 23:10:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: explode() expects at most 3 arguments, 4 given in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-lastest-news.php:13
+Stack trace:
+#0 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-lastest-news.php(13): explode('', ', ),\n          ...', '', '')
+#1 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(792): require('/Users/tzanarde...')
+#2 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template.php(725): load_template('/Users/tzanarde...', false, Array)
+#3 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#4 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/page-home.php(8): get_template_part('parts/content', 'lastest-news')
+#5 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-includes/template-loader.php(106): include('/Users/tzanarde...')
+#6 /Users/tzanarde/Local Sites/wp-devs/app/public/wp-blog-header.php(19): require_once('/Users/tzanarde...')
+#7 /Users/tzanarde/Local Sites/wp-devs/app/public/index.php(17): require('/Users/tzanarde...')
+#8 {main}
+  thrown in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-lastest-news.php on line 13
+[21-Nov-2023 00:32:55 UTC] PHP Parse error:  syntax error, unexpected identifier "wp", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:32:55 UTC] PHP Parse error:  syntax error, unexpected identifier "wp", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:33:08 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:33:08 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:33:36 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:33:36 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:33:59 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 00:33:59 UTC] PHP Parse error:  syntax error, unexpected token "=>", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/inc/customizer.php on line 43
+[21-Nov-2023 01:03:51 UTC] PHP Parse error:  syntax error, unexpected identifier "Please", expecting ")" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/parts/content-home-hero.php on line 3
+[21-Nov-2023 01:04:18 UTC] PHP Parse error:  syntax error, unexpected token ":" in /Users/tzanarde/Local Sites/wp-devs/app/public/wp-content/themes/wp-devs/search.php on line 7
